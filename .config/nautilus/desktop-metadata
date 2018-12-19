@@ -1,0 +1,44 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-desktop-icon-size=96
+nautilus-icon-view-layout-timestamp=1545238595
+
+[trash]
+nautilus-icon-position-timestamp=1545238595
+nautilus-icon-position=56,26
+icon-scale=1
+
+[UBUNTU 18_0.volume]
+nautilus-icon-position=134,166
+icon-scale=1
+nautilus-icon-position-timestamp=1530137890
+
+[WD M.2.volume]
+nautilus-icon-position=2334,1366
+icon-scale=0.5
+nautilus-icon-position-timestamp=1530138573
+
+[WD 2.5".volume]
+nautilus-icon-position=2412,1338
+icon-scale=0.5
+nautilus-icon-position-timestamp=1530138598
+
+[DRIVE.volume]
+nautilus-icon-position=56,126
+icon-scale=1
+nautilus-icon-position-timestamp=1538618720
+
+[network]
+nautilus-icon-position=56,226
+icon-scale=1
+nautilus-icon-position-timestamp=1545238595
+
+[home]
+nautilus-icon-position=56,326
+icon-scale=1
+nautilus-icon-position-timestamp=1545238595
+
+[KUBUNTU 18_.volume]
+nautilus-icon-position=56,126
+icon-scale=1
+nautilus-icon-position-timestamp=1544735918

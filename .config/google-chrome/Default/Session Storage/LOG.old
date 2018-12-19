@@ -1,0 +1,21 @@
+2018/12/19-11:56:42.183 18629 Reusing MANIFEST /home/a/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/12/19-11:56:42.184 18629 Recovering log #740
+2018/12/19-11:56:42.184 18629 Reusing old log /home/a/.config/google-chrome/Default/Session Storage/000740.log 
+2018/12/19-11:59:35.271 19994 Level-0 table #744: started
+2018/12/19-11:59:35.273 19994 Level-0 table #744: 20278 bytes OK
+2018/12/19-11:59:35.275 19994 Delete type=0 #740
+2018/12/19-12:20:14.860 19994 Level-0 table #746: started
+2018/12/19-12:20:14.864 19994 Level-0 table #746: 24711 bytes OK
+2018/12/19-12:20:14.865 19994 Delete type=0 #743
+2018/12/19-12:20:14.865 19994 Compacting 4@0 + 1@1 files
+2018/12/19-12:20:14.870 19994 Generated table #747@0: 3710 keys, 142194 bytes
+2018/12/19-12:20:14.870 19994 Compacted 4@0 + 1@1 files => 142194 bytes
+2018/12/19-12:20:14.872 19994 compacted to: files[ 0 1 4 0 0 0 0 ]
+2018/12/19-12:20:14.872 19994 Delete type=2 #741
+2018/12/19-12:20:14.872 19994 Delete type=2 #744
+2018/12/19-12:20:14.872 19994 Delete type=2 #746
+2018/12/19-12:20:14.872 19994 Delete type=2 #739
+2018/12/19-12:20:14.872 19994 Delete type=2 #737
+2018/12/19-13:02:23.652 19994 Level-0 table #749: started
+2018/12/19-13:02:23.655 19994 Level-0 table #749: 17013 bytes OK
+2018/12/19-13:02:23.657 19994 Delete type=0 #745

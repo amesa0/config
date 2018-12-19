@@ -1,0 +1,25 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "images/16x16.png",
+      "default_title": "New Tab Changer"
+   },
+   "chrome_url_overrides": {
+      "newtab": "newtab.html"
+   },
+   "description": "Load a custom web page or url in a new tab. Fast, light, and easy to use.",
+   "icons": {
+      "128": "images/128x128.png",
+      "48": "images/48x48.png"
+   },
+   "incognito": "split",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDJ2EKSsdxu8YDD8QUawzb87rr57Vghw0CkcY+vB0WhmquP0+ysKLku2msGba/IM6AEElBMFU5PNSJfJIewD+DLDyW7KAy3fVUWjOw+31cXlu3l6dDOpAz6J46dL1IBllRAqoCKD8FdgxNcpN49zoeFdgH2vy4gHl0St3oRQEAEQwIDAQAB",
+   "manifest_version": 2,
+   "name": "New Tab Changer",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}
